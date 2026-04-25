@@ -1,4 +1,4 @@
-# Hi, I'm Christiane Rhely Joselle A. Bacani 👋
+# Hi, I'm Christianei 👋
 **Data Engineer and Data Analyst · Philippines 🇵🇭**
 
 I design and build data pipelines that can extract, transform, and load data from whatever sources that I found interesting. Lately I'm expanding into data analytics, working toward a role where I can cover the full stack from raw ingestion to business insight.
