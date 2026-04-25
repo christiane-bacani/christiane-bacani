@@ -62,6 +62,6 @@ Python · SQL · Data Engineering · Data Analytics · Data Modeling
 
 ## 📫 Reach Me
 
-- Email: [*Email*](mailto:christianbacani581@gmail.com)
-- LinkedIn: [*LinkedIn*](https://www.linkedin.com/in/christianebacani/)
-- Facebook: [*Facebook*](https://www.facebook.com/christianebacani)
+- [*Email*](mailto:christianbacani581@gmail.com)
+- [*LinkedIn*](https://www.linkedin.com/in/christianebacani/)
+- [*Facebook*](https://www.facebook.com/christianebacani)
