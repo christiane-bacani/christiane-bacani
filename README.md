@@ -23,7 +23,7 @@ I design and build data pipelines that can extract, transform, and load data fro
 ## 📌 Featured Projects
 
 ### [Data Bank System — Provincial Government of Bataan](https://github.com/christiane-bacani/Data-Bank-System)
-Entity Relationship Diagram that covers enterprise analytical data repository centralizing performance measurements across 37+ government departments and offices. Designed to track the Governor's Joint Strategic Goals (GJSG) — covering data lineage, observability, a full data catalog, and a galaxy schema ERD with shared dimensions.
+Entity Relationship Diagram that covers enterprise analytical data repository centralizing performance measurements across 37+ government departments and offices. Designed to track the Governor's Joint Strategic Goals (GJSG) that covers data lineage, observability, full data catagalog, and a galaxy schema with shared dimensions.
 
 > Real-world client · 37+ departments · Galaxy schema · Full data catalog design
 
