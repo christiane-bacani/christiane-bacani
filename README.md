@@ -23,7 +23,7 @@ I design and build data pipelines that can extract, transform, and load data fro
 ## 📌 Featured Projects
 
 ### [Data Bank System — Provincial Government of Bataan](https://github.com/christiane-bacani/Data-Bank-System)
-Enterprise analytical data repository centralizing performance measurements across 37+ government departments and offices. Designed to track the Governor's Joint Strategic Goals (GJSG) — covering data lineage, observability, a full data catalog, and a galaxy schema ERD with shared dimensions.
+Entity Relationship Diagram that covers eterprise analytical data repository centralizing performance measurements across 37+ government departments and offices. Designed to track the Governor's Joint Strategic Goals (GJSG) — covering data lineage, observability, a full data catalog, and a galaxy schema ERD with shared dimensions.
 
 > Real-world client · 37+ departments · Galaxy schema · Full data catalog design
 
@@ -32,14 +32,14 @@ Enterprise analytical data repository centralizing performance measurements acro
 ---
 
 ### [PH Flood Control Pulse](https://github.com/christiane-bacani/PH-Flood-Control-Pulse-An-EDA-of-Public-Tweets)
-EDA pipeline collecting and analyzing public tweets on flood control issues in the Philippines. Combines web scraping, text preprocessing, and exploratory analysis to surface public sentiment patterns.
+An Exploratory Data Analysis (EDA) of public tweets related to the flood control issues in the Philippines. Combining text preprocessing and exploratory analysis to surface public sentiment patterns.
 
-`Python` `Twitter API` `EDA` `NLP`
+`Python` `Jupyter Notebook` `Kaggle` `Twitter Data` `Exploratory Data Analysis (EDA)` `Natural Language Processing (NLP)`
 
 ---
 
 ### [Steam Charts Tracker](https://github.com/christiane-bacani/steam-charts-tracker) *(in progress)*
-End-to-end ETL pipeline scraping Steam Charts for trending games, top records, and historical player concurrency data. Features structured logging, modular ETL layers, and is being built toward Power BI visualization.
+ETL Pipeline that can scrape data from Steam Charts Website to get all data for trending games, top game, and top records. Features structured logging, modular ETL layers, and is being built to integrate BI (Business Intelligence) tools.
 
 `Python` `PostgreSQL` `Snowflake` `Web Scraping` `ETL Pipelining` `Logging`.
 
