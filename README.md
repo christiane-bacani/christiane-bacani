@@ -14,7 +14,7 @@ I design and build data pipelines that can extract, transform, and load data fro
 
 ## 🔭 What I'm Working On
 
-- Building **Steam Charts Tracker** — an ETL pipeline tracking game popularity trends with Power BI visualization
+- Building **Steam Charts Tracker**: An ETL pipeline tracking game popularity trends and perform exploratory data analysis (EDA).
 - Expanding my analytics skill set to bridge data engineering and business analysis
 - Open to Data Analyst and Data Engineer roles
 
