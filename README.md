@@ -55,7 +55,7 @@ Python · SQL · Data Engineering · Data Analytics · Data Modeling
 
 - Quiet environments and cold rooms are my ideal work setup
 - I'm an NBA fan, specially when playoff season hits (lmao).
-- I love watching League of Legends Esports especially during World Championship..
+- I love watching League of Legends Esports especially during World Championship.
 - Working toward a home office with fast internet and a mechanical keyboard worth the investment
 
 ---
@@ -63,5 +63,5 @@ Python · SQL · Data Engineering · Data Analytics · Data Modeling
 ## 📫 Reach Me
 
 - Email: [christianbacani581@gmail.com](mailto:christianbacani581@gmail.com)
-- LinkedIn: [*Christiane Rhely Joselle A. Bacani*](https://www.linkedin.com/in/christianebacani/)
-- Facebook: [*Christiane Rhell Joselle A. Bacani*](https://www.facebook.com/christianebacani)
+- LinkedIn: [*Click Here*](https://www.linkedin.com/in/christianebacani/)
+- Facebook: [*Click Here*](https://www.facebook.com/christianebacani)
