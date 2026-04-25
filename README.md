@@ -22,7 +22,7 @@ I design and build data pipelines that can extract, transform, and load data fro
 
 ## 📌 Featured Projects
 
-### [Data Bank System — Provincial Government of Bataan](https://github.com/christiane-bacani/Data-Bank-System)
+### [Data Bank System (ERD) for Provincial Government of Bataan](https://github.com/christiane-bacani/Data-Bank-System)
 Entity Relationship Diagram that covers enterprise analytical data repository centralizing performance measurements across 37+ government departments and offices. Designed to track the Governor's Joint Strategic Goals (GJSG) that covers data lineage, observability, full data catagalog, and a galaxy schema with shared dimensions.
 
 > Real-world client · 37+ departments · Galaxy schema · Full data catalog design
@@ -31,7 +31,7 @@ Entity Relationship Diagram that covers enterprise analytical data repository ce
 
 ---
 
-### [PH Flood Control Pulse](https://github.com/christiane-bacani/PH-Flood-Control-Pulse-An-EDA-of-Public-Tweets)
+### [PH Flood Control Pulse: An EDA of Public Tweets](https://github.com/christiane-bacani/PH-Flood-Control-Pulse-An-EDA-of-Public-Tweets)
 An Exploratory Data Analysis (EDA) of public tweets related to the flood control issues in the Philippines. Combining text preprocessing and exploratory analysis to surface public sentiment patterns.
 
 `Python` `Jupyter Notebook` `Kaggle` `Twitter Data` `Exploratory Data Analysis (EDA)` `Natural Language Processing (NLP)`
