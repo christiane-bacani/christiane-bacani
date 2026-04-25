@@ -54,7 +54,8 @@ Python · SQL · Data Engineering · Data Analytics · Data Modeling
 ## ⚡ Fun Facts
 
 - Quiet environments and cold rooms are my ideal work setup
-- I'm an NBA fane, specially when playoff season hits (lmao).
+- I'm an NBA fan, specially when playoff season hits (lmao).
+- I love watching League of Legends Esports especially during World Championship..
 - Working toward a home office with fast internet and a mechanical keyboard worth the investment
 
 ---
