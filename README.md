@@ -63,4 +63,4 @@ Python · SQL · Data Engineering · Data Analytics · Data Modeling
 
 - Email: [christianbacani581@gmail.com](mailto:christianbacani581@gmail.com)
 - LinkedIn: [*Christiane Rhely Joselle A. Bacani*](https://www.linkedin.com/in/christianebacani/)
-- GitHub: [christiane-bacani](https://github.com/christiane-bacani)
+- Facebook: [*Christiane Rhell Joselle A. Bacani*](https://www.facebook.com/christianebacani)
