@@ -7,8 +7,8 @@ I design and build data pipelines that can extract, transform, and load data fro
 
 ## 🛠 Tech Stack
 
-**Languages & Libraries:** Python · Pandas · NumPy · SQLAlchemy · Requests · BeautifulSoup
-**Databases & Warehouses:** PostgreSQL · MySQL · SQLite · Snowflake
+- **Languages & Libraries:** Python · Pandas · NumPy · SQLAlchemy · Requests · BeautifulSoup
+- **Databases & Warehouses:** PostgreSQL · MySQL · SQLite · Snowflake
 
 ---
 
