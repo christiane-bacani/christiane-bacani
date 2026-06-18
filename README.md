@@ -6,7 +6,7 @@ I design and build data pipelines that extract, transform, and load data from wh
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python · SQL · JavaScript · PHP
+- **Languages:** Python · SQL
 - **Data & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
 - **Databases & Warehouses:** PostgreSQL · MySQL · SQLite · Snowflake
 - **Backend & APIs:** SQLAlchemy · FastAPI · Flask · Requests · BeautifulSoup
