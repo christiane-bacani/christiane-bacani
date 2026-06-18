@@ -1,5 +1,5 @@
 # Hi, I'm Christiane 👋
-Data Engineering & Analytics · Philippines 🇵🇭**
+**Data Engineering & Analytics · Philippines 🇵🇭**
 
 I design and build data pipelines that extract, transform, and load data from whatever sources I find interesting, then turn that data into structured, insight-ready outputs. I'm a Computer Science graduate with strong hands-on experience in Python, SQL, and data handling, and I'm expanding into machine learning, statistics, and data visualization as I work toward covering the full data lifecycle from raw ingestion to business insight. Currently building end-to-end data projects that connect live data pipelines to analytics dashboards and recommendation system that bridge data engineering with real analytical output and machine learning capabilities.
 
