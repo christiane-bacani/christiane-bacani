@@ -16,7 +16,7 @@ I design and build data pipelines that extract, transform, and load data from wh
 ---
 
 ## 🔭 What I'm Working On
-- Extending **Steam Charts Tracker** — an ETL pipeline tracking game popularity trends, connected to an analytics dashboard and a game recommendation system powered by machine learning.
+- Extending **Steam Charts Tracker**: an end-to-end data engineering proejct tracking game popularity trends, connected to an analytics dashboard using Power BI and Matplotlib/Seaborn Python Library and a game recommendation system powered by machine learning model.
 - Exploring the **Elastic Stack** (Elasticsearch · Kibana) for log analytics and data observability via Docker.
 - Deepening applied statistics, machine learning, and data visualization skills through end-to-end projects.
 - Open to Data Engineer and Data Analyst roles.
