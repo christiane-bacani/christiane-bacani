@@ -1,5 +1,5 @@
 # Hi, I'm Christiane 👋
-**Data/AI Engineer · Philippines 🇵🇭**
+**Data and AI/ML Engineer · Philippines 🇵🇭**
 
 I design and build data pipelines that extract, transform, and load data from whatever sources I find interesting, then turn that data into structured, insight-ready outputs. I'm a Computer Science graduate with strong hands-on experience in Python, SQL, and data handling, and I'm expanding into machine learning, statistics, and data visualization as I work toward covering the full data lifecycle from raw ingestion to business insight. Currently building end-to-end data projects that connect live data pipelines to analytics dashboards and recommendation system that bridge data engineering with real analytical output and machine learning capabilities.
 
@@ -19,7 +19,7 @@ I design and build data pipelines that extract, transform, and load data from wh
 - Extending **Steam Charts Tracker**: an end-to-end data engineering proejct tracking game popularity trends, connected to an analytics dashboard using Power BI and Matplotlib/Seaborn Python Library and a game recommendation system powered by machine learning model.
 - Exploring the **ELK Stack** (Elasticsearch · Logstash · Kibana) for log analytics and data observability via Docker.
 - Deepening applied statistics, machine learning, and data visualization skills through end-to-end projects.
-- Open to Data Engineer and Data Analyst roles.
+- Open to Data Engineer, AI/ML Engineer, and Developer roles.
 
 ---
 
